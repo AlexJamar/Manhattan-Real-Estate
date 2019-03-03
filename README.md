@@ -1,1 +1,1 @@
-# Manhattan_Real_Estate
+# Repo for Manhattan Real Estate Price Evaluation Site
